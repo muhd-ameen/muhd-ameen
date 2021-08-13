@@ -7,7 +7,7 @@ Mobile Application Developer & Flutter Developer
 ### **Code**:
 
 [![Flutter](https://img.shields.io/badge/-flutter-45fd3?style=for-the-badge&logo=flutter&logoColor=white)](https://muhd-ameen.github.io/)
-[![Dart](https://img.shields.io/badge/-dart-fff?style=for-the-badge&logo=dart&logoColor=white)](https://muhd-ameen.github.io/)
+[![Dart](https://img.shields.io/badge/-dart-fff?style=for-the-badge&logo=dart&logoColor=black)](https://muhd-ameen.github.io/)
 [![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=white)](https://muhd-ameen.github.io/)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)](https://muhd-ameen.github.io/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)](https://muhd-ameen.github.io/)
