@@ -85,6 +85,8 @@ Mobile Application Developer & Flutter Developer
 <h3> How to reach me 📫</h3>
 
  [![Website](https://img.shields.io/badge/-Website-black?style=for-the-badge&logo=Julia&logoColor=white)](https://muhd-ameen.github.io/)
+
+ [![phone](https://img.shields.io/badge/-+91 97466 70322-1DA1F2?style=for-the-badge&logo=Julia&logoColor=white)](tell:+919746670322)
  [![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhd-ameen/)
  [![EMAIL](https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=Mail.Ru&logoColor=white)](mailto:ameens.in19@gmail.com)
  [![TWITTER](https://img.shields.io/badge/-TWITTER-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/AmeenSulaiman4)
