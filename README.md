@@ -1,3 +1,4 @@
+
 ## Muhammed Ameen
 Mobile Application Developer & Flutter Developer
 
@@ -9,13 +10,13 @@ Mobile Application Developer & Flutter Developer
 [![Flutter](https://img.shields.io/badge/-flutter-45fd3?style=for-the-badge&logo=flutter&logoColor=white)](https://muhd-ameen.github.io/)
 [![Dart](https://img.shields.io/badge/-dart-fff?style=for-the-badge&logo=dart&logoColor=black)](https://muhd-ameen.github.io/)
 [![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=white)](https://muhd-ameen.github.io/)
+[![Dart](https://img.shields.io/badge/-C-fff?style=for-the-badge&logo=c&logoColor=black)](https://muhd-ameen.github.io/)
+[![Dart](https://img.shields.io/badge/-C++-fff?style=for-the-badge&logo=cplusplus&logoColor=black)](https://muhd-ameen.github.io/)
+[![Dart](https://img.shields.io/badge/-JAVASCRIPT-FFCA28?style=for-the-badge&logo=javascript&logoColor=black)](https://muhd-ameen.github.io/)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)](https://muhd-ameen.github.io/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)](https://muhd-ameen.github.io/)
-[![SASS](https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=SASS&logoColor=white)](https://muhd-ameen.github.io/)
-[![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=Ruby&logoColor=white)](https://muhd-ameen.github.io/)
-[![Ruby on Rails](https://img.shields.io/badge/-Ruby--on--rails-CC0000?style=for-the-badge&logo=Ruby-on-rails&logoColor=white)](https://muhd-ameen.github.io/)
-[![React](https://img.shields.io/badge/-REACT-black?style=for-the-badge&logo=React&logoColor=61DAFB)](https://reactjs.org/)
-[![Redux](https://img.shields.io/badge/-REDUX-black?style=for-the-badge&logo=Redux&logoColor=764ABC)](https://redux.js.org/)
+[![Ruby](https://img.shields.io/badge/-Ruby-black?style=for-the-badge&logo=linuxmint&logoColor=green)](https://muhd-ameen.github.io/)
+[
 
 <br><br>
 
@@ -24,7 +25,9 @@ Mobile Application Developer & Flutter Developer
 <h3>Databases</h3>
 
 [![FireBase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black)](https://muhd-ameen.github.io/)
+[![Bitbucket](https://img.shields.io/badge/-netlify-003B57?style=for-the-badge&logo=netlify&logoColor=white)](https://app.netlify.com)
 [![SQFite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white)](https://muhd-ameen.github.io/)
+[![Git](https://img.shields.io/badge/-HIVE-F05032?style=for-the-badge&logo=hive&logoColor=white)](https://git-scm.com/)
 [![Google Cloud](https://img.shields.io/badge/-Google--Cloud-4285F4?style=for-the-badge&logo=Google-Cloud&logoColor=white)](https://muhd-ameen.github.io/)
 </div>
 
@@ -35,13 +38,10 @@ Mobile Application Developer & Flutter Developer
 <h3> Tools </h3>
 
 [![Android Studio](https://img.shields.io/badge/-Android--Studio-F7DF1E?style=for-the-badge&logo=Android-Studio&logoColor=black)](https://developer.android.com/studio)
-[![VSC](https://img.shields.io/badge/-Visual--Studio--Code-007ACC?style=for-the-badge&logo=Visual-Studio&logoColor=white)](https://code.visualstudio.com/)
 [![Visual Studio IDE](https://img.shields.io/badge/-Visual--Studio-5C2D91?style=for-the-badge&logo=Visual-Studio&logoColor=white)](hhttps://docs.microsoft.com/en-us/visualstudio/get-started/visual-studio-ide?view=vs-2019)
 [![gitlab](https://img.shields.io/badge/-gitlab-F05032?style=for-the-badge&logo=gitlab&logoColor=white)](https://git-scm.com/)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white)](https://git-scm.com/)
-
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://muhd-ameen.github.io/)
-[![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=for-the-badge&logo=Bitbucket&logoColor=white)](https://bitbucket.org/product/guides/getting-started/overview)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)](https://getbootstrap.com/)
 
 
@@ -72,11 +72,11 @@ Mobile Application Developer & Flutter Developer
 <div align="center">
 <h3> I’m currently learning </h3>
 
-[![GO](https://img.shields.io/badge/-GO-00ADD8?style=for-the-badge&logo=Go&logoColor=white)](https://golang.org/)
-[![LARAVEL](https://img.shields.io/badge/-LARAVEL-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white)](https://laravel.com/)
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)](https://www.docker.com/)
-[![JENKINS](https://img.shields.io/badge/-JENKINS-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)](https://www.jenkins.io/)
-[![NEXTJS](https://img.shields.io/badge/-Nextjs-000000?style=for-the-badge&logo=Next.js&logoColor=white)](https://nextjs.org/)
+[![GO](https://img.shields.io/badge/-FLUTTER_ARCHITECHTURE-00ADD8?style=for-the-badge&logo=Gso&logoColor=white)](https://github.com/muhd-ameen)
+[![LARAVEL](https://img.shields.io/badge/-GETX-FF2D20?style=for-the-badge&logo=LaravFel&logoColor=white)](https://github.com/muhd-ameen)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)](https://github.com/muhd-ameen)
+[![JENKINS](https://img.shields.io/badge/-VUE_JS-D24939?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://github.com/muhd-ameen)
+[![NEXTJS](https://img.shields.io/badge/-CUSTOM_BACKEND-000000?style=for-the-badge&logo=Next.js&logoColor=white)](https://github.com/muhd-ameen)
  
 
 </div>
@@ -85,7 +85,7 @@ Mobile Application Developer & Flutter Developer
 <h3> How to reach me 📫</h3>
 
  [![Website](https://img.shields.io/badge/-Website-black?style=for-the-badge&logo=Julia&logoColor=white)](https://muhd-ameen.github.io/)
-
+ 
  [![phone](https://img.shields.io/badge/-+919746670322-1DA1F2?style=for-the-badge&logo=Julia&logoColor=white)](tel:9746670322)
  [![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhd-ameen/)
  [![EMAIL](https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=Mail.Ru&logoColor=white)](mailto:ameens.in19@gmail.com)
