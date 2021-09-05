@@ -15,8 +15,7 @@ Mobile Application Developer & Flutter Developer
 [![Dart](https://img.shields.io/badge/-JAVASCRIPT-FFCA28?style=for-the-badge&logo=javascript&logoColor=black)](https://muhd-ameen.github.io/)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)](https://muhd-ameen.github.io/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)](https://muhd-ameen.github.io/)
-[![Ruby](https://img.shields.io/badge/-Ruby-black?style=for-the-badge&logo=linuxmint&logoColor=green)](https://muhd-ameen.github.io/)
-[
+
 
 <br><br>
 
@@ -39,9 +38,10 @@ Mobile Application Developer & Flutter Developer
 
 [![Android Studio](https://img.shields.io/badge/-Android--Studio-F7DF1E?style=for-the-badge&logo=Android-Studio&logoColor=black)](https://developer.android.com/studio)
 [![Visual Studio IDE](https://img.shields.io/badge/-Visual--Studio-5C2D91?style=for-the-badge&logo=Visual-Studio&logoColor=white)](hhttps://docs.microsoft.com/en-us/visualstudio/get-started/visual-studio-ide?view=vs-2019)
-[![gitlab](https://img.shields.io/badge/-gitlab-F05032?style=for-the-badge&logo=gitlab&logoColor=white)](https://git-scm.com/)
-[![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white)](https://git-scm.com/)
+[![gitlab](https://img.shields.io/badge/-gitlab-FFF?style=for-the-badge&logo=gitlab&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://muhd-ameen.github.io/)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white)](https://git-scm.com/)
+[![Ruby](https://img.shields.io/badge/-LINUX-black?style=for-the-badge&logo=linuxmint&logoColor=green)](https://muhd-ameen.github.io/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)](https://getbootstrap.com/)
 
 
@@ -49,11 +49,10 @@ Mobile Application Developer & Flutter Developer
 <div align="center">
 <h3> Lenguages 💬 </h3>
 
-[![English](https://img.shields.io/badge/-English-F05032?style=for-the-badge)](https://muhd-ameen.github.io/)
-[![Spanish](https://img.shields.io/badge/-Spanish-007ACC?style=for-the-badge)](https://muhd-ameen.github.io/)
-[![Malayalam](https://img.shields.io/badge/-Malayalam-F05032?style=for-the-badge)](https://muhd-ameen.github.io/)
-[![Arabic](https://img.shields.io/badge/-Arabic-007ACC?style=for-the-badge)](https://muhd-ameen.github.io/)
+[![English](https://img.shields.io/badge/-English-007ACC?style=for-the-badge)](https://muhd-ameen.github.io/)
+[![Malayalam](https://img.shields.io/badge/-Malayalam-5C2D91?style=for-the-badge)](https://muhd-ameen.github.io/)
 [![Tamil](https://img.shields.io/badge/-Tamil-F05032?style=for-the-badge)](https://muhd-ameen.github.io/)
+[![Spanish](https://img.shields.io/badge/-Spanish-007ACC?style=for-the-badge)](https://muhd-ameen.github.io/)
 
 
 </div>
@@ -74,7 +73,7 @@ Mobile Application Developer & Flutter Developer
 
 [![GO](https://img.shields.io/badge/-FLUTTER_ARCHITECHTURE-00ADD8?style=for-the-badge&logo=Gso&logoColor=white)](https://github.com/muhd-ameen)
 [![LARAVEL](https://img.shields.io/badge/-GETX-FF2D20?style=for-the-badge&logo=LaravFel&logoColor=white)](https://github.com/muhd-ameen)
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)](https://github.com/muhd-ameen)
+[![Docker](https://img.shields.io/badge/-JAMSTACK-fc0384?style=for-the-badge&logo=jamstack&logoColor=white)](https://github.com/muhd-ameen)
 [![JENKINS](https://img.shields.io/badge/-VUE_JS-D24939?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://github.com/muhd-ameen)
 [![NEXTJS](https://img.shields.io/badge/-CUSTOM_BACKEND-000000?style=for-the-badge&logo=Next.js&logoColor=white)](https://github.com/muhd-ameen)
  
