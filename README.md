@@ -79,7 +79,6 @@ Mobile Application Developer & Flutter Developer
  
 
 </div>
-+91 97466 70322
 <div align="center">
 <h3> How to reach me 📫</h3>
 
