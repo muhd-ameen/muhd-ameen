@@ -1,6 +1,6 @@
 
 ## Muhammed Ameen
-Mobile Application Developer & Flutter Developer
+Mobile Application Developer
 
 ## SKILLS
 <img align="right" src="https://github-readme-stats.vercel.app/api/?username=muhd-ameen&show_icons=true&hide_border=true" />
