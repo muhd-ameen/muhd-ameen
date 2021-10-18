@@ -72,7 +72,7 @@ Mobile Application Developer
 <h3> I’m currently learning </h3>
 
 [![GO](https://img.shields.io/badge/-FLUTTER_ARCHITECHTURE-00ADD8?style=for-the-badge&logo=Gso&logoColor=white)](https://github.com/muhd-ameen)
-[![LARAVEL](https://img.shields.io/badge/-GETX-FF2D20?style=for-the-badge&logo=LaravFel&logoColor=white)](https://github.com/muhd-ameen)
+[![LARAVEL](https://img.shields.io/badge/-Provider-FF2D20?style=for-the-badge&logo=LaravFel&logoColor=white)](https://github.com/muhd-ameen)
 [![Docker](https://img.shields.io/badge/-JAMSTACK-fc0384?style=for-the-badge&logo=jamstack&logoColor=white)](https://github.com/muhd-ameen)
 [![JENKINS](https://img.shields.io/badge/-VUE_JS-D24939?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://github.com/muhd-ameen)
 [![NEXTJS](https://img.shields.io/badge/-CUSTOM_BACKEND-000000?style=for-the-badge&logo=Next.js&logoColor=white)](https://github.com/muhd-ameen)
