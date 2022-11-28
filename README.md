@@ -47,7 +47,7 @@ Mobile Application Developer
 
 </div>
 <div align="center">
-<h3> Lenguages 💬 </h3>
+<h3> Languages 💬 </h3>
 
 [![English](https://img.shields.io/badge/-English-007ACC?style=for-the-badge)](https://muhd-ameen.github.io/)
 [![Malayalam](https://img.shields.io/badge/-Malayalam-5C2D91?style=for-the-badge)](https://muhd-ameen.github.io/)
