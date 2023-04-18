@@ -19,6 +19,13 @@ Mobile Application Developer
 
 <br><br>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ameen-amn&show_icons=true&locale=en&layout=compact" alt="ameen-amn" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ameen-amn&" alt="ameen-amn" /></p>
+
+
+<br><br>
+
 
 <div align="center">
 <h3>Databases</h3>
