@@ -22,7 +22,6 @@ Mobile Application Developer
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhd-ameen&" alt="muhd-ameen" /></p>
-<img align="right" src="https://github-readme-stats.vercel.app/api/?username=muhd-ameen&show_icons=true&hide_border=true" />
 
 
 <br><br>
