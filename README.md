@@ -17,14 +17,14 @@ Mobile Application Developer
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)](https://muhd-ameen.github.io/)
 
 
-<br><br>
+<br>
 
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhd-ameen&" alt="muhd-ameen" /></p>
 
 
-<br><br>
+<br>
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
