@@ -6,9 +6,6 @@ Mobile Application Developer
 <img align="right" src="https://github-readme-stats.vercel.app/api/?username=muhd-ameen&show_icons=true&hide_border=true" />
 
 
-
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhd-ameen&" alt="muhd-ameen" /></p>
 
 
@@ -18,18 +15,7 @@ Mobile Application Developer
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-### **Code**:
 
-[![Flutter](https://img.shields.io/badge/-flutter-45fd3?style=for-the-badge&logo=flutter&logoColor=white)](https://muhd-ameen.github.io/)
-[![Dart](https://img.shields.io/badge/-dart-fff?style=for-the-badge&logo=dart&logoColor=black)](https://muhd-ameen.github.io/)
-[![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=white)](https://muhd-ameen.github.io/)
-[![Dart](https://img.shields.io/badge/-C-fff?style=for-the-badge&logo=c&logoColor=black)](https://muhd-ameen.github.io/)
-[![Dart](https://img.shields.io/badge/-C++-fff?style=for-the-badge&logo=cplusplus&logoColor=black)](https://muhd-ameen.github.io/)
-[![Dart](https://img.shields.io/badge/-JAVASCRIPT-FFCA28?style=for-the-badge&logo=javascript&logoColor=black)](https://muhd-ameen.github.io/)
-
-
-
-<br>
 <div align="center">
 <h3>Databases</h3>
 
