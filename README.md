@@ -17,7 +17,8 @@ Mobile Application Developer
 </div>
 
 <div align="center">
-  ### **Code**:
+  <h3>Code</h3>
+
 
 [![Flutter](https://img.shields.io/badge/-flutter-45fd3?style=for-the-badge&logo=flutter&logoColor=white)](https://muhd-ameen.github.io/)
 [![Dart](https://img.shields.io/badge/-dart-fff?style=for-the-badge&logo=dart&logoColor=black)](https://muhd-ameen.github.io/)
