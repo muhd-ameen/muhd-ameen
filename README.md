@@ -65,19 +65,6 @@ Mobile Application Developer
 [![Spanish](https://img.shields.io/badge/-Spanish-007ACC?style=for-the-badge)](https://muhd-ameen.github.io/)
 
 
-</div>
-
-<div align="center">
-<h3> Professional </h3>
-
-[![Remote](https://img.shields.io/badge/-Visual--Remote-007ACC?style=for-the-badge)](https://muhd-ameen.github.io/)
-[![Pair Programming](https://img.shields.io/badge/-Pair--Programming-5C2D91?style=for-the-badge)](https://muhd-ameen.github.io/)
-[![Problem Solving](https://img.shields.io/badge/-Problem--Solving-F05032?style=for-the-badge)](https://muhd-ameen.github.io/)
-[![Teamwork](https://img.shields.io/badge/-Teamwork-181717?style=for-the-badge)](https://muhd-ameen.github.io/)
-[![Mentoring](https://img.shields.io/badge/-Mentoring-181717?style=for-the-badge)](https://muhd-ameen.github.io/)
-
-</div>
-
 <div align="center">
 <h3> I’m currently learning </h3>
 
