@@ -22,7 +22,7 @@ Mobile Application Developer
 
 
 
-<br><br>
+<br>
 
 
 
