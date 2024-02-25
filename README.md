@@ -20,12 +20,7 @@ Mobile Application Developer
 [![Dart](https://img.shields.io/badge/-C++-fff?style=for-the-badge&logo=cplusplus&logoColor=black)](https://muhd-ameen.github.io/)
 [![Dart](https://img.shields.io/badge/-JAVASCRIPT-FFCA28?style=for-the-badge&logo=javascript&logoColor=black)](https://muhd-ameen.github.io/)
 
-
-
 <br>
-
-
-
 
 
 <div align="center">
@@ -45,6 +40,6 @@ Mobile Application Developer
  [![Website](https://img.shields.io/badge/-Website-black?style=for-the-badge&logo=Julia&logoColor=white)](https://muhd-ameen.github.io/)
   [![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhd-ameen/)
  [![EMAIL](https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=Mail.Ru&logoColor=white)](mailto:ameens.in19@gmail.com)
- [![TWITTER](https://img.shields.io/badge/-TWITTER-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/aminocode)
+ [![TWITTER](https://img.shields.io/badge/-TWITTER-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/emeenx)
 
 </div>
