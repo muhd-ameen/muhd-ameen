@@ -9,13 +9,6 @@ Mobile Application Developer
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhd-ameen&" alt="muhd-ameen" /></p>
 
 
-<br>
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 <div align="center">
   <h3>Code</h3>
 
@@ -29,39 +22,10 @@ Mobile Application Developer
 
 
 
-<br>
-<h3>Databases</h3>
-
-[![FireBase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black)](https://muhd-ameen.github.io/)
-[![Bitbucket](https://img.shields.io/badge/-netlify-003B57?style=for-the-badge&logo=netlify&logoColor=white)](https://app.netlify.com)
-[![SQFite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white)](https://muhd-ameen.github.io/)
-[![Git](https://img.shields.io/badge/-HIVE-F05032?style=for-the-badge&logo=hive&logoColor=white)](https://git-scm.com/)
-[![Google Cloud](https://img.shields.io/badge/-Google--Cloud-4285F4?style=for-the-badge&logo=Google-Cloud&logoColor=white)](https://muhd-ameen.github.io/)
-</div>
-
 <br><br>
 
 
-<div align="center">
-<h3> Tools </h3>
 
-[![Android Studio](https://img.shields.io/badge/-Android--Studio-F7DF1E?style=for-the-badge&logo=Android-Studio&logoColor=black)](https://developer.android.com/studio)
-[![Visual Studio IDE](https://img.shields.io/badge/-Visual--Studio-5C2D91?style=for-the-badge&logo=Visual-Studio&logoColor=white)](hhttps://docs.microsoft.com/en-us/visualstudio/get-started/visual-studio-ide?view=vs-2019)
-[![gitlab](https://img.shields.io/badge/-gitlab-FFF?style=for-the-badge&logo=gitlab&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://muhd-ameen.github.io/)
-[![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white)](https://git-scm.com/)
-[![Ruby](https://img.shields.io/badge/-LINUX-black?style=for-the-badge&logo=linuxmint&logoColor=green)](https://muhd-ameen.github.io/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)](https://getbootstrap.com/)
-
-
-</div>
-<div align="center">
-<h3> Languages 💬 </h3>
-
-[![English](https://img.shields.io/badge/-English-007ACC?style=for-the-badge)](https://muhd-ameen.github.io/)
-[![Malayalam](https://img.shields.io/badge/-Malayalam-5C2D91?style=for-the-badge)](https://muhd-ameen.github.io/)
-[![Tamil](https://img.shields.io/badge/-Tamil-F05032?style=for-the-badge)](https://muhd-ameen.github.io/)
-[![Spanish](https://img.shields.io/badge/-Spanish-007ACC?style=for-the-badge)](https://muhd-ameen.github.io/)
 
 
 <div align="center">
@@ -79,9 +43,7 @@ Mobile Application Developer
 <h3> How to reach me 📫</h3>
 
  [![Website](https://img.shields.io/badge/-Website-black?style=for-the-badge&logo=Julia&logoColor=white)](https://muhd-ameen.github.io/)
- 
- [![phone](https://img.shields.io/badge/-+919746670322-1DA1F2?style=for-the-badge&logo=Julia&logoColor=white)](tel:9746670322)
- [![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhd-ameen/)
+  [![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhd-ameen/)
  [![EMAIL](https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=Mail.Ru&logoColor=white)](mailto:ameens.in19@gmail.com)
  [![TWITTER](https://img.shields.io/badge/-TWITTER-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/aminocode)
 
