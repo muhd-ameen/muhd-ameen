@@ -15,7 +15,6 @@ Tomorrow? Could be something completely different.
 
 ---
 
-## 📅 This Month’s Energy
 ## 🎢 Recent Wins & Fails
 + Got Ente Ward running in a real ward with actual citizens using it  
 + AIMDAO prototype now survives chaos testing without catching fire  
