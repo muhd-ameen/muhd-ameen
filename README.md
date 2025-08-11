@@ -10,15 +10,17 @@ Tomorrow? Could be something completely different.
 ## ⚡ Current Build Mode
 - Shipping [Ente Ward](https://github.com/...) — local governance app hitting real wards in Kerala.
 - Cooking **AIMDAO** — AI-managed DAOs that don’t suck.
-- Experimenting with Web3 voting for a *whole country* (Oman project).
+- Experimenting with Web3 voting for a *whole country*
 - Random side quests: toy car e-commerce, AI dev tools, indie apps.
 
 ---
 
 ## 📅 This Month’s Energy
-- 🛠️ Build → Ship → Feedback loop on 2 products  
-- 🎯 Get 50+ real users giving angry, honest feedback  
-- 🚀 Cut all “learning” work that doesn’t touch production
+## 🎢 Recent Wins & Fails
++ Got Ente Ward running in a real ward with actual citizens using it  
++ AIMDAO prototype now survives chaos testing without catching fire  
+– Spent 3 days fixing a bug that was just a missing semicolon  
+– Tried to use a “no-code tool” for speed… ended up coding the whole thing anyway
 
 ---
 
