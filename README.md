@@ -10,7 +10,6 @@ Tomorrow? Could be something completely different.
 ## ⚡ Current Build Mode
 - Shipping [Ente Ward](https://github.com/...) — local governance app hitting real wards in Kerala.
 - Cooking **AIMDAO** — AI-managed DAOs that don’t suck.
-- Experimenting with Web3 voting for a *whole country*
 - Random side quests: toy car e-commerce, AI dev tools, indie apps.
 
 ---
