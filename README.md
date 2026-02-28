@@ -1,33 +1,37 @@
-# 🏗️ Ameen — Builder in the Arena
+🏗️ Ameen — In the Arena
 
-I don't “work with” tech.  
-I break it. I rebuild it. I ship it.  
-Right now, I’m deep in Flutter, Rust, Solana, and AI agents.  
-Tomorrow? Could be something completely different.
+I don’t follow technology.
+I pressure test it.
+I take it apart.
+I make it hold under stress.
 
----
+I build systems that survive real users, real constraints, real chaos.
 
-## ⚡ Current Build Mode
-- Shipping [Ente Ward](https://github.com/...) — local governance app hitting real wards in Kerala.
-- Cooking **AIMDAO** — AI-managed DAOs that don’t suck.
-- Random side quests: toy car e-commerce, AI dev tools, indie apps.
+⚙️ Operating Mode
 
----
+I care about outcomes, not trends.
+Tools change. Principles don’t.
 
-## 🎢 Recent Wins & Fails
-+ Got Ente Ward running in a real ward with actual citizens using it  
-+ AIMDAO prototype now survives chaos testing without catching fire  
-– Spent 3 days fixing a bug that was just a missing semicolon  
-– Tried to use a “no-code tool” for speed… ended up coding the whole thing anyway
+Speed when it’s needed.
+Precision when it matters.
+Simplicity wherever possible.
 
----
+🧠 Philosophy
 
-## 🖤 Build Philosophy
-- No fake productivity tools. Trello boards rot. Docs collect dust.  
-- If it’s not shipped, it doesn’t exist.  
-- 80% done is just “not done”.
+Shipping is the only proof.
+If it isn’t live, it’s theory.
 
----
+I don’t collect ideas.
+I execute them.
 
-## 📡 Live Feed
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=muhd-ameen&theme=dark&hide_border=true)
+I don’t optimize for noise.
+I optimize for durability.
+
+🧩 Standard
+
+No cosmetic progress.
+No half-finished work.
+No “almost ready.”
+
+It either works.
+Or it doesn’t.
